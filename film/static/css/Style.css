@@ -1,0 +1,26 @@
+body {
+    position: relative;
+}
+
+.nav_font {
+    font-size: 25px;
+}
+
+footer ol {
+    list-style-type: none;
+    text-align: center;
+    padding: 40px;
+}
+
+footer ol li {
+    display: inline;
+    margin-right: 100px;
+
+}
+
+footer img {
+    width: 100px;
+    border: 2px solid lightgrey;
+    border-radius: 100px;
+}
+
